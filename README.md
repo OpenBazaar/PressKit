@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/OpenBazaar/PressKit/master/images/logo/openbazaar-logo.png" style="max-width: 150px" />
+<img src="https://raw.githubusercontent.com/OpenBazaar/PressKit/master/images/logo/openbazaar-logo.png" style="max-width: 150px" width="150px" />
 PressKit
 ========
 
